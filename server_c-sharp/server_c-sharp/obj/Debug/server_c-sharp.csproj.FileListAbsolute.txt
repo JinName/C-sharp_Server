@@ -1,0 +1,6 @@
+D:\Code Workspace\server_c-sharp\server_c-sharp\obj\Debug\server_c-sharp.csprojAssemblyReference.cache
+D:\Code Workspace\server_c-sharp\server_c-sharp\bin\Debug\server_c-sharp.exe.config
+D:\Code Workspace\server_c-sharp\server_c-sharp\bin\Debug\server_c-sharp.exe
+D:\Code Workspace\server_c-sharp\server_c-sharp\bin\Debug\server_c-sharp.pdb
+D:\Code Workspace\server_c-sharp\server_c-sharp\obj\Debug\server_c-sharp.exe
+D:\Code Workspace\server_c-sharp\server_c-sharp\obj\Debug\server_c-sharp.pdb
